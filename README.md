@@ -1,2 +1,2 @@
 # TEA_ANIMATION
-by html and css only
+Technologies used : Html , Css
